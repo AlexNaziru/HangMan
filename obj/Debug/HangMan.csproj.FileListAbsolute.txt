@@ -1,0 +1,7 @@
+G:\Projects\C#\HangMan\HangMan\bin\Debug\HangMan.exe.config
+G:\Projects\C#\HangMan\HangMan\bin\Debug\HangMan.exe
+G:\Projects\C#\HangMan\HangMan\bin\Debug\HangMan.pdb
+G:\Projects\C#\HangMan\HangMan\obj\Debug\HangMan.csproj.AssemblyReference.cache
+G:\Projects\C#\HangMan\HangMan\obj\Debug\HangMan.csproj.CoreCompileInputs.cache
+G:\Projects\C#\HangMan\HangMan\obj\Debug\HangMan.exe
+G:\Projects\C#\HangMan\HangMan\obj\Debug\HangMan.pdb
